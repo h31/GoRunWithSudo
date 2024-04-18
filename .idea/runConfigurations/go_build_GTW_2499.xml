@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build GTW-2499" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="GTW-2499" />
+    <working_directory value="$PROJECT_DIR$" />
+    <sudo value="true" />
+    <kind value="PACKAGE" />
+    <package value="GTW-2499" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/main.go" />
+    <method v="2" />
+  </configuration>
+</component>
